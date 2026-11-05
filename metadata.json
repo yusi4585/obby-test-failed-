@@ -1,0 +1,6 @@
+{
+  "name": "BloxCraft AI - Roblox Game Maker Studio",
+  "description": "Create full, playable Roblox games from a single prompt. Generates genuine .rbxlx place files, Rojo projects, command bar scripts, and an interactive in-browser 3D simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
